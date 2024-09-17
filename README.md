@@ -33,4 +33,4 @@ A passionate developer from Thailand
 
 ---
 
-![Alt Text](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
+![44607aab956016c08fe4449861774a9804188fa7](https://github.com/user-attachments/assets/3334b1e9-1a31-40a3-9f3a-a6f5625624c8)
