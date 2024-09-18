@@ -32,5 +32,3 @@ A passionate developer from Thailand
 <a href="https://github.com/pongsapak-suwa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pongsapak-suwa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
-
-![44607aab956016c08fe4449861774a9804188fa7](https://github.com/user-attachments/assets/3334b1e9-1a31-40a3-9f3a-a6f5625624c8)
