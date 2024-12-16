@@ -23,11 +23,10 @@ Hi there! 👋 My name is pongsapak
 <a href="https://github.com/pongsapak-suwa/pongsapak-suwa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pongsapak-suwa&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
-  
-<a href="https://github.com/pongsapak-suwa/pongsapak-suwa">
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=pongsapak-suwa&limit=5&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 </p>
+<a href="https://github.com/pongsapak-suwa/pongsapak-suwa">
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=pongsapak-suwa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_contributor_rank=false&combine_all_yearly_contributions=true&limit=5" />
+</a>
 
 ## My Leet code
 
