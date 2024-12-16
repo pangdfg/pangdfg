@@ -7,6 +7,9 @@ Hi there! 👋 My name is pongsapak
 * 🌍  I'm based in Thialand
 * I'm a passionate Developer With a keen interest in creating Backend and Database
 
+> [!NOTE]
+> ✉️  You can contact me at [pongsapak.suwa@gmail.com](mailto:pongsapak.suwa@gmail.com)
+
 ### Visitor count
 <img src="https://profile-counter.glitch.me/pongsapak-suwa/count.svg" />
 
@@ -38,10 +41,6 @@ Hi there! 👋 My name is pongsapak
 </a>
 </p>
 
----
-
-> [!NOTE]
-> ✉️  You can contact me at [pongsapak.suwa@gmail.com](mailto:pongsapak.suwa@gmail.com)
-
 ![ดาวน์โหลด](https://github.com/user-attachments/assets/a3002efe-4cdd-42a6-8052-9b9c7d2f81b5)
 
+---
