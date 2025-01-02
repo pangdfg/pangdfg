@@ -17,7 +17,7 @@ Hi there! 👋 My name is pongsapak
 ## &#x1f4c8; My GitHub Stats
 
 <p><a href="https://github.com/pangdfg/pangdfg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pangdfg&show_icons=true&line_height=28.5&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&rank_icon=github&include_all_commits=true" alt="pangdfg GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pangdfg&show_icons=true&line_height=28.5&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&rank_icon=github" alt="pangdfg GitHub Stats" />
 </a>
   
 <a href="https://github.com/pangdfg/pangdfg">
