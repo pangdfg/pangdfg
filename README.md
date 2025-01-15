@@ -39,7 +39,6 @@ Hi there! 👋 My name is pongsapak
   <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo" />
   <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="apachekafka logo" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo" />
   <img src="https://skillicons.dev/icons?i=sequelize" height="30" alt="sequelize logo" />
