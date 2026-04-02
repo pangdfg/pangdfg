@@ -1,4 +1,3 @@
-![bafkreienxsiyuhdjx6ikqgiqwwyvpnt554bizravujgsgd5xfgbhkkrokq](https://github.com/user-attachments/assets/090474ac-eda4-40e6-ae3c-9fae4600abb1)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=97B8F7&background=FF090900&width=441&height=70&lines=Hi+there!+%F0%9F%91%8B+My+name+is+pongsapak.)](https://portfolio-website-xi-two-51.vercel.app/)
 =================================================================================================================================
