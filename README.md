@@ -6,9 +6,9 @@
 * ✨ I'm a passionate Developer With a keen interest in creating Backend and Database
 * 📘 I’m currently working on my self improvement
 
-<a href="https://github.com/pangdfg/pangdfg">
   <img align="center" src=https://github.com/user-attachments/assets/266e85fc-74b8-475b-8858-8662cc063c97 width="170" height="170" />
-</a>
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=pangdfg&hide_border=true&theme=tokyonight&layout=compact&hide=lua">
+
 
 > [!NOTE]
 > ✉️  You can contact me at [pongsapak.suwa@gmail.com](mailto:pongsapak.suwa@gmail.com)
